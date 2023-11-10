@@ -1,3 +1,5 @@
+go to https://eaglercraft.mywire.org/ for MY version
+
 <h1>EaglerCraft Hacker Client List</h1>
 <p>EaglerCraft Hacker Client List</p>
 <p>EaglerCraft 辅助客户端收录页面</p>
