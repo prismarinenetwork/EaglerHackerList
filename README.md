@@ -1,2 +1,3 @@
-go to https://eaglercraft.mywire.org/ for MY version
-If you fork PLEASE star and make sure to credit me please if you don't thats ok :)
+this is made 100% in html5 so its easy port
+I am still learning how to code so sorry the website dosent look all fancy yet 
+please star if you like :)
