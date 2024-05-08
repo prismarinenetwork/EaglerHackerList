@@ -1,4 +1,4 @@
-this is made 100% in html5
+this is made 100% in html
 
 
 
